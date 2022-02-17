@@ -1,20 +1,26 @@
-.. Documentation Brandmeister France documentation master file, created by
-   sphinx-quickstart on Thu Feb 17 08:41:57 2022.
-   You can adapt this file completely to your liking, but it should at least
-   contain the root `toctree` directive.
+=================================
+Documentation Brandmeister France
+=================================
+-----------------
+Ne paniquez pas !
+-----------------
 
-Welcome to Documentation Brandmeister France's documentation!
-=============================================================
+Introduction
+============
 
-.. toctree::
-   :maxdepth: 2
-   :caption: Contents:
+This is an example reStructuredText document that starts at the very top
+with a title and a sub-title. There is one primary header, Introduction.
+There is one example subheading below.
+The document is just plain text so it is easily readable even before
+being converted to HTML, man page, PDF or other formats.
 
+Subheading
+----------
 
+The basic syntax is not that different from Markdown, but it also
+has many more powerful features that Markdown doesn't have. We aren't
+taking advantage of those yet though.
 
-Indices and tables
-==================
-
-* :ref:`genindex`
-* :ref:`modindex`
-* :ref:`search`
+- Bullet points
+- Are intuitive
+- And simple too
