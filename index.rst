@@ -12,9 +12,22 @@ Cette documentation va s'étoffer petit à petit, pour l'instant elle sonne un p
 mais on y travaille.
 
 
-..toctree::
+.. toctree::
     :maxdepth: 2
     :caption: Sommaire
-    :ref: 'Interco'
+
+    Interco
+    QuestionsDiverses
+    ReadTheDoc
+
+Indices and tables
+==================
+* ::ref:'Interco' 
+* ::ref:'QuestionsDiverses' 
+* ::ref:'ReadTheDoc'
+* 
+* 
+* 
+
 
 
