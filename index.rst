@@ -15,6 +15,6 @@ mais on y travaille.
 ..toctree::
     :maxdepth: 2
     :caption: Sommaire
-    * :ref:'Interco'
+    :ref: 'Interco'
 
 
