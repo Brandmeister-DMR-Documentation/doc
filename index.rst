@@ -25,9 +25,7 @@ Indices and tables
 * ::ref:'Interco' 
 * ::ref:'QuestionsDiverses' 
 * ::ref:'ReadTheDoc'
-* 
-* 
-* 
+
 
 
 
