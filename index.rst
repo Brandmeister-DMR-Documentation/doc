@@ -20,12 +20,6 @@ mais on y travaille.
     QuestionsDiverses
     ReadTheDoc
 
-Indices and tables
-==================
-* ::ref:'Interco' 
-* ::ref:'QuestionsDiverses' 
-* ::ref:'ReadTheDoc'
-
 
 
 
