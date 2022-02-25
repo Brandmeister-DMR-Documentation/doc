@@ -1,4 +1,4 @@
-""""""""""""""""""""""""""""""""""""""""""""""""""""""
+
 Interconnexions de Brandmeister avec d'autres réseaux
 """"""""""""""""""""""""""""""""""""""""""""""""""""""
 
@@ -7,7 +7,7 @@ qu'il n'est pas possile de faire pour interconnecter
 un réseau tiers à Brandmeister.
 
 
-====================
+
 Systèmes concernés
 ====================
 
@@ -19,7 +19,7 @@ Ce type d'interconnexion peut se faire avec les systèmes suivants :
 - Analogique via SVXlink. 
 
 
-==========
+
 Prérequis
 ==========
 
@@ -29,7 +29,6 @@ Prérequis
 4. Les TG de un à 5 chiffres sont réservés pour une utilisation interne à Brandmeister et ne sont pas disponiblespour réaliser une interconnexion.
 
 
-=======
 Contact
 =======
 
