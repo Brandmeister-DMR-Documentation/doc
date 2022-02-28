@@ -14,4 +14,6 @@ Si des ssid ont été déclarés et ne sont pas utilisés, il sont nettoyés tou
 
 Pour que les SMS fonctionnent sur un hotspot/relais MMDVM, il est nécessaire de désactiver la confirmation des 
 appels Data dans le codeplug de votre poste, ce réglage est dans les paramètres de chaque canal. 
-(Chez Motorola, il s'agit de la fonction Data Call Confirmed)
+(Chez Motorola, il s'agit de la fonction Data Call Confirmed).
+Attention, dans ce cas de figure, il est nécessaire de désactiver l'option "Text Capture" dans votre Selfcare, ou vous 
+recevrez sans cesse les messages en attente.
