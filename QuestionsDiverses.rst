@@ -17,3 +17,12 @@ appels Data dans le codeplug de votre poste, ce réglage est dans les paramètre
 (Chez Motorola, il s'agit de la fonction Data Call Confirmed).
 Attention, dans ce cas de figure, il est nécessaire de désactiver l'option "Text Capture" dans votre Selfcare, ou vous 
 recevrez sans cesse les messages en attente.
+
+
+Astuces concernant les codeplugs
+================================
+
+Concernant la programmation d'un codeplug, Inga YL3IM a très bien résumé la logique à suivre.
+"Un canal c'est une frequence, un code couleur et un timeslot. Une RX List qui contient des groupes a recevoir lui est attribue, 
+Ainsi que le TX Contact Name qui est le contact par default quand on presse PTT. 
+Si je souhaite appeler quelqu'un d'autre, je le choisis dans la liste des contacts (repertoire)".
