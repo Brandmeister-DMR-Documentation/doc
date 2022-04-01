@@ -32,8 +32,12 @@ Un canal, c'est :
     - Une rx list contenant les groupes à recevoir.
     - Un contact par défaut.
 
+En suivant cette logique, vous aurez un codeplug plus leger. La rx group list va vous permettre de recevoir vos correspondants
+quel que soit le TG sur lequel ils se trouvent tant que ce TG figure dans votre rx group list.
+Si vous appuyez sur le bouton PTT immédiatement après avoir reçu un appel sur un TG qui n'est pas le TG par défaut configuré
+sur votre canal, votre poste va se mettre automatiquement sur le TG qui a appelé et va y rester quelques secondes 
+(délai configuré dans votre codeplug) vous permettant ainsi de faire le qso. Si vous désirez appeler sur un TG
+que celui qui est défini par défaut, il suffit de le sélectionner dans vos contacts et de presser le bouton PTT.
 
-"Un canal c'est une frequence, un code couleur et un timeslot. Une RX List qui contient des groupes a recevoir lui est attribue, 
-Ainsi que le TX Contact Name qui est le contact par default quand on presse PTT. 
-Si je souhaite appeler quelqu'un d'autre, je le choisis dans la liste des contacts (repertoire)".
+
 
